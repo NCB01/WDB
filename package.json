@@ -1,0 +1,28 @@
+{
+  "name": "WDB",
+  "version": "1.21.1",
+  "description": "WDB is the fast, easy and versatile PHP ORM. It allows you manage databases with ease and efficiency. In a few words: MIT license, PHP 5.3 or newer, familiar syntax, zero hassle, zero configuration, easy to use, simple to learn, flexible, fast, powerful and smart, mysql, postgresql, sqlite, sqlserver, oracle, etc.",
+  "main": "vendor/autoload.php",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EFTEC/AutoLoadOne.git"
+  },
+  "keywords": [
+    "php",
+    "autoload",
+    "autoinclude"
+  ],
+  "author": "Charles B. Nyima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EFTEC/AutoLoadOne/issues"
+  },
+  "homepage": "http://wdb.freevar.com"
+}
